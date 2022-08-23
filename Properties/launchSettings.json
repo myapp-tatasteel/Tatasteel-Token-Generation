@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FunctionApp6": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error"
+    }
+  }
+}
